@@ -79,7 +79,9 @@ Why Use This?
 This project is ideal for:
 
 Students & Beginners → who want to learn from errors, not just fix them.
+
 Educators → who want a teaching aid for code quality and debugging.
+
 Developers → who want linting + AI explanations in a simple, local setup.
 
 ---
