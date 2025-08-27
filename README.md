@@ -57,6 +57,7 @@ project_root/
 ├── sessions.json      
 ├── templates/        
 │   ├── base.html
+
 │   └── index.html
 └── static/           
     └── style.css
