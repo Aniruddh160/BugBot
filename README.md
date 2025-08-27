@@ -59,6 +59,7 @@ project_root/
 │   ├── base.html
 
 │   └── index.html
+
 └── static/           
     └── style.css
 
